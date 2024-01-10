@@ -26,3 +26,6 @@ def speech_to_text():
 
 if __name__ == "__main__":
     speech_to_text()
+
+
+print('Finalise the project')
